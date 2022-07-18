@@ -15,4 +15,4 @@ Add a screenshot of the sent mail to your readme file.
 
 ### Screenshot
 
-![](./Mail Screenshot.png)
+![](./Mail%20Screenshot.png)
