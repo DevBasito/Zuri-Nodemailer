@@ -16,3 +16,6 @@ Add a screenshot of the sent mail to your readme file.
 ### Screenshot
 
 ![](./Mail%20Screenshot.png)
+
+
+In addition to Nodemailer, i used Elasticemail SMTP API to send Automated emails. 
