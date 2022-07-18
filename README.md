@@ -12,3 +12,7 @@ You can try bulk messaging (optional)
 Push codes to GitHub and briefly describe this feature in your readme file.
 
 Add a screenshot of the sent mail to your readme file.
+
+### Screenshot
+
+![](./Mail Screenshot.png)
